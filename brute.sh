@@ -1,4 +1,4 @@
-# !/bin/bash
+!/bin/bash
 # Author 		: ./Lolz
 # Thanks to 		: JavaGhost - Bashid.org
 # Recode tinggal recode aja okeh, tapi cantumin source lah tolol
